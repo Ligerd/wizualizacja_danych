@@ -1,1 +1,1 @@
-# wizualizacja_danych
+#  Zaawansowane systemy baz danych mag
