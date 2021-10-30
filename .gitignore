@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 .~lock.TematyProjektow.odt#
+venv
+venv/
+priv
+priv/
